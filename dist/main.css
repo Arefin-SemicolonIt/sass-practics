@@ -675,6 +675,9 @@ body {
   border-radius: 30px;
   margin-left: -35px;
 }
+.section_12 .section_12__btn:hover {
+  background-color: #5777ba;
+}
 
 .section_13 {
   display: flex;

@@ -853,6 +853,10 @@ body {
     cursor: pointer;
     border-radius: 30px;
     margin-left: -35px;
+
+    &:hover {
+      background-color: $fontColor1;
+    }
   }
 
 }
